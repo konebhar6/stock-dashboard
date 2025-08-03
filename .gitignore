@@ -1,0 +1,5 @@
+.env
+*.db
+*.toml
+__pycache__/
+stock_notes.json
