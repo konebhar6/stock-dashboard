@@ -1,0 +1,30 @@
+{
+  "AAPL": {
+    "about": "Apple Inc. is a consumer electronics and software company best known for the iPhone, iPad, Mac, and Apple Watch.",
+    "factors": [
+      "iPhone demand and product cycle",
+      "China supply chain dependency",
+      "Services growth (App Store, iCloud)",
+      "AI integration and Vision Pro rollout"
+    ],
+    "events": [
+      "Q3 Earnings: August 8, 2025",
+      "iPhone 17 launch expected in September 2025",
+      "WWDC 2026 in June"
+    ]
+  },
+  "NVDA": {
+    "about": "NVIDIA designs GPUs and AI chips powering data centers, gaming, and self-driving tech.",
+    "factors": [
+      "Data center AI demand",
+      "Partnerships with hyperscalers",
+      "Export restrictions to China",
+      "Hopper and Blackwell chip cycles"
+    ],
+    "events": [
+      "Earnings: August 21, 2025",
+      "Blackwell launch update expected Q4",
+      "GTC Conference in March 2026"
+    ]
+  }
+}
